@@ -1,0 +1,81 @@
+{
+     "users" :[
+        {
+            "id": 1,
+            "nama": "Yasin",
+            "alamat": "tangerang",
+            "umur": 24,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 2,
+            "nama": "Mimi",
+            "alamat": "tangerang utara",
+            "umur": 26,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 3,
+            "nama": "Abil",
+            "alamat": "Tangerang Selatan",
+            "umur": 24,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 4,
+            "nama": "Juniawan",
+            "alamat": "Depok",
+            "umur": 24,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 5,
+            "nama": "Alvin",
+            "alamat": "Bogor",
+            "umur": 29,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 6,
+            "nama": "Andi",
+            "alamat": "Bogor",
+            "umur": 18,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 7,
+            "nama": "Kelvin",
+            "alamat": "Jakarta Pusat",
+            "umur": 29,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 8,
+            "nama": "Popo",
+            "alamat": "Serang",
+            "umur": 22,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 9,
+            "nama": "Anggi",
+            "alamat": "Bogor",
+            "umur": 29,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 10,
+            "nama": "Asep",
+            "alamat": "Cileungis",
+            "umur": 29,
+            "nohp": "080802808208"
+        },
+        {
+            "id": 11,
+            "nama": "Aldi",
+            "alamat": "Cianjur",
+            "umur": 29,
+            "nohp": "080802808208"
+        }
+    ]
+}
